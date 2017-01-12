@@ -12,7 +12,13 @@
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="/">Dashboard</a></li>
-        <li><a href="/resume/codyroberts_resume.doc">Resume</a></li>
+        <li class="<?=$pageName == 'internet' ? 'active' : '' ?>"><a href="index.php">Internet Access <span class="sr-only">(current)</span></a></li>
+        <li class="<?=$pageName == 'failures' ? 'active' : '' ?>"><a href="failures.php">Fail Rate</a></li>
+        <li class="<?=$pageName == 'studytime' ? 'active' : '' ?>"><a href="study-time.php">Study Time</a></li>
+        <li class="<?=$pageName == 'absences' ? 'active' : '' ?>"><a href="absences.php">Absenteeism</a></li>
+        <li class="<?=$pageName == 'todo' ? 'active' : '' ?>"><a href="todo.php">To Do's</a></li>
+        <li class="<?=$pageName == 'challenges' ? 'active' : '' ?>"><a href="challenges.php">Challenges</a></li>
+        <li class="<?=$pageName == 'resume' ? 'active' : '' ?>"><a href="/resume/codyroberts_resume.pdf">Resume</a></li>
       </ul>
     </div>
   </div>

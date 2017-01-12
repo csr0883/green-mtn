@@ -5,9 +5,11 @@
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="/js/ie10-viewport-bug-workaround.js"></script>
     <script type="text/javascript">
-    $(window).resize(function(){
-        getChart.drawChart();
-    });
+    <?  //wire this up to redraw the charts on page resize for responsiveness
+        /*$(window).resize(function(){
+            getChart.drawChart();
+        });*/
+    ?>
 
     
     <?  // Draw the charts and bar chart when Charts is loaded.

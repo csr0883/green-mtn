@@ -14,6 +14,6 @@
   <ul class="nav nav-sidebar nav-group-3">
     <li class="<?=$pageName == 'todo' ? 'active' : '' ?>"><a href="todo.php">To Do's</a></li>
     <li class="<?=$pageName == 'challenges' ? 'active' : '' ?>"><a href="challenges.php">Challenges</a></li>
-    <li class="<?=$pageName == 'resume' ? 'active' : '' ?>"><a href="/resume/codyroberts_resume.doc">Resume</a></li>
+    <li class="<?=$pageName == 'resume' ? 'active' : '' ?>"><a href="/resume/codyroberts_resume.pdf">Resume</a></li>
   </ul>
 </div>
