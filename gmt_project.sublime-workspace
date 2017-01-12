@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"absen",
+				"absenceProp"
+			],
+			[
+				"bar",
+				"barTitle"
+			],
+			[
+				"fail",
+				"failureProp"
+			],
+			[
+				"getch",
+				"getChart"
+			],
+			[
+				"draw",
+				"drawHealthChart"
+			],
+			[
+				"F",
+				"FAILURES"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"G",
+				"G2"
+			],
+			[
+				"G1",
+				"G1"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "challenges.php",
+			"settings":
+			{
+				"buffer_size": 955,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/charts.js",
+			"settings":
+			{
+				"buffer_size": 3269,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"SFTP",
+				"Package Control: Satisfy Dependencies"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 332.0,
+		"history":
+		[
+			"Install Package",
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/G/Green_Mtn",
+		"/G/Green_Mtn/css",
+		"/G/Green_Mtn/global",
+		"/G/Green_Mtn/includes",
+		"/G/Green_Mtn/js",
+		"/G/Green_Mtn/rest",
+		"/G/Green_Mtn/resume"
+	],
+	"file_history":
+	[
+		"/G/Green_Mtn/travel-time.php",
+		"/G/Green_Mtn/absences.php",
+		"/G/Green_Mtn/study-time.php",
+		"/G/Green_Mtn/failures.php",
+		"/G/Green_Mtn/js/charts.js",
+		"/G/Green_Mtn/includes/functions.php",
+		"/G/Green_Mtn/css/dashboard.css",
+		"/G/Green_Mtn/challenges.php",
+		"/G/Green_Mtn/todo.php",
+		"/G/Green_Mtn/global/top-nav.php",
+		"/G/Green_Mtn/rest/getData.php",
+		"/G/Green_Mtn/global/left-nav.php",
+		"/G/Green_Mtn/overall-health.php",
+		"/G/Green_Mtn/health.php",
+		"/G/Green_Mtn/index.php",
+		"/G/Green_Mtn/global/footer.php",
+		"/G/Green_Mtn/js/getData.php",
+		"/G/Green_Mtn/global/header.php",
+		"/G/Green_Mtn/queries.txt",
+		"/G/Green_Mtn/testphp.php",
+		"/C/users/csr/appdata/local/temp/sublime-sftp-browse-1484034452/mapped/public_html/gmt/css/dashboard.css",
+		"/G/Green_Mtn/.htaccess",
+		"/G/Green_Mtn/css/bootstrap.min.css",
+		"/G/Green_Mtn/css/test.css",
+		"/G/Green_Mtn/js/holder.min.js",
+		"/G/Green_Mtn/js/bootstrap.min.js",
+		"/G/Green_Mtn/manifest.json",
+		"/C/Users/CSR/Downloads/bootstrap-3.3.7/docs/examples/dashboard/index.html",
+		"/G/Green_Mtn/uploadtest.php",
+		"/G/Green_Mtn/sftp-config.json"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Absence",
+			"10",
+			"count(id)"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Student Count"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "challenges.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								444,
+								444
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/charts.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3269,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								811,
+								811
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 232.0
+	},
+	"pinned_build_system": "",
+	"project": "gmt_project.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 318.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
